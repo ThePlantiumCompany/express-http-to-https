@@ -2,6 +2,9 @@
 
 express-http-to-https is a node.js package for providing an Express middleware that redirects the client to HTTPS if they attempt to connect over HTTP.
 
+## Fork Description
+ES6 syntax rewritten to make it work on older node installations
+
 ## Installation
 `$ npm install --save express-http-to-https`
 
